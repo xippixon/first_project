@@ -1,3 +1,6 @@
 .div{
   color: white;
+  background-color: aqua;
+  flex: auto;
+  display: flex;
 }
