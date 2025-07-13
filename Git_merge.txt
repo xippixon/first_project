@@ -1,7 +1,0 @@
-1) git add .
-2)git commit -m "Название"
-3) git push
-
-
-cd
-cd /c/Users/Антоновы/Desktop/dev/first-project/ono-tebe-nado-fd
